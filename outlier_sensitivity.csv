@@ -1,0 +1,4 @@
+Model,All test RMSE (£),Test RMSE below training 99th percentile (£)
+Ridge (basic),1397.208964520389,307.2103212214928
+Ridge (engineered),1541.971994860363,288.17229028383645
+Random Forest (engineered),2303.01929614253,140.21405770717203
